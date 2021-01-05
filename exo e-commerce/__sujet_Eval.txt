@@ -1,0 +1,32 @@
+Réaliser un site e-commerce.
+
+Il doit contenir:
+- une barre de navigation
+- des cards affichant des produits récupérés depuis une base de données;
+- un panier récapitulant les produits selectionnés (calcul de la somme à payer par
+type de produit, en fonction de la quantité séléctionnée)
++ bouton pour enlever les produits du panier
+- le calcul de la somme totale à payer
+- afficher une fenêtre modale si séléction = 0
+- les "users" de mon site via une API (Fetch,Ajax, ...)
+
+Le site doit être responsif !
+
+
+Maquetter un site:
+    * Utiliser des outils de maquettage (Photshop,Balsamiq, Figma...)
+    * Construire la maquette de l'application (Zoning,wireframe,StyleTile,...)
+
+Réaliser une interface utilisateur web statique et adaptable:
+    * Connaissance des principes de base du référencement (balise Meta, Semantique)
+    * responsive Design
+
+ Développer une interface utilisateur web dynamique:
+
+    * Écrire des algorithmes (JS)
+    * Intégrer dans une page web des scripts événementiels avec un langage de scrip (JS)
+    * Améliorer le site en utilisant des mécanismes asynchrones (de type AJAX, Fetch,...
+
+
+
+
