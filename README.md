@@ -1,3 +1,3 @@
-# Simplon-Evaluation-finale-front-end
+# Simplon-Projet-E-commerce
 Projet e-commerce d'évaluation partie Front
-(formation intensive 3,5 mois - Simplon)
+(fin formation intensive 3,5 mois)
